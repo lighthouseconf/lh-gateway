@@ -1,0 +1,17 @@
+{
+  "name": "reef",
+  "version": "0.0.1",
+  "description": "API gateway for Lighthouse",
+  "main": "index.js",
+  "repository": "https://github.com/lighthouseconf/reef",
+  "author": "rajikaimal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-google": "^0.7.1"
+  }
+}
