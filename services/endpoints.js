@@ -28,5 +28,17 @@ module.exports = [
 		"port": "3001",
 		"path": "/api/users/:id",
 		"method": "GET"
-	}	
+	},
+	{
+		"host": "localhost",
+		"port": "3001",
+		"path": "/api/message/:time",
+		"method": "GET"
+	},
+	{
+		"host": "localhost",
+		"port": "3001",
+		"path": "/api/messages/:chatid",
+		"method": "GET"
+	}			
 ];
